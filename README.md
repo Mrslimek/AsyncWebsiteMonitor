@@ -18,6 +18,9 @@
 1. Клонируйте репозиторий:
     ```bash
     git clone https://github.com/Mrslimek/AsyncWebsiteMonitor
+    ```
+2. Перейдите в директорию проекта:
+    ```bash
     cd AsyncWebsiteMonitor
     ```
 
