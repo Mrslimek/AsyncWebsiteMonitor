@@ -1,0 +1,9 @@
+{
+    "urls": [
+        "https://www.google.com",
+        "https://www.github.com",
+        "https://www.redis.io",
+        "https://eneba.com"
+    ],
+    "check_interval": 10
+}
